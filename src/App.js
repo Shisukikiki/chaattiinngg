@@ -10,12 +10,12 @@ import Channel from './components/Channel';
 import Loader from './components/Loader';
 
 firebase.initializeApp({
-  apiKey: "AIzaSyAE2LVl9hlIJ7cnvcDNLOzYDRq_TYw0D0E",
-  authDomain: "react-firechat-a4433.firebaseapp.com",
-  projectId: "react-firechat-a4433",
-  storageBucket: "react-firechat-a4433.appspot.com",
-  messagingSenderId: "984056456110",
-  appId: "1:984056456110:web:b8744cf730348be9c0de3f",
+  apiKey: "AIzaSyAyCfL6jme0rejJ9arBApMk0Ytgr5g-11U",
+  authDomain: "chatting-c07c3.firebaseapp.com",
+  projectId: "chatting-c07c3",
+  storageBucket: "chatting-c07c3.appspot.com",
+  messagingSenderId: "1049547255984",
+  appId: "1:1049547255984:web:14c7a222a30e9f61374b75"
 });
 
 const MoonIcon = props => (
